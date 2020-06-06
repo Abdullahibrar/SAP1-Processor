@@ -1,0 +1,54 @@
+Running: G:\xilinix\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/USMAN/Desktop/sapfinalESLAB/test_isim_beh.exe -prj C:/Users/USMAN/Desktop/sapfinalESLAB/test_beh.prj work.test work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/USMAN/Desktop/sapfinalESLAB/register_out.v" into library work
+Analyzing Verilog file "C:/Users/USMAN/Desktop/sapfinalESLAB/register_b.v" into library work
+Analyzing Verilog file "C:/Users/USMAN/Desktop/sapfinalESLAB/instructionregister.v" into library work
+Analyzing Verilog file "C:/Users/USMAN/Desktop/sapfinalESLAB/controlword.v" into library work
+WARNING:HDLCompiler:568 - "C:/Users/USMAN/Desktop/sapfinalESLAB/controlword.v" Line 70: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "C:/Users/USMAN/Desktop/sapfinalESLAB/controlword.v" Line 71: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "C:/Users/USMAN/Desktop/sapfinalESLAB/controlword.v" Line 72: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "C:/Users/USMAN/Desktop/sapfinalESLAB/controlword.v" Line 74: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "C:/Users/USMAN/Desktop/sapfinalESLAB/controlword.v" Line 75: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "C:/Users/USMAN/Desktop/sapfinalESLAB/controlword.v" Line 76: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "C:/Users/USMAN/Desktop/sapfinalESLAB/controlword.v" Line 78: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "C:/Users/USMAN/Desktop/sapfinalESLAB/controlword.v" Line 79: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "C:/Users/USMAN/Desktop/sapfinalESLAB/controlword.v" Line 80: Constant value is truncated to fit in <4> bits.
+Analyzing Verilog file "C:/Users/USMAN/Desktop/sapfinalESLAB/asdf.v" into library work
+WARNING:HDLCompiler:568 - "C:/Users/USMAN/Desktop/sapfinalESLAB/asdf.v" Line 31: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "C:/Users/USMAN/Desktop/sapfinalESLAB/asdf.v" Line 32: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "C:/Users/USMAN/Desktop/sapfinalESLAB/asdf.v" Line 33: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "C:/Users/USMAN/Desktop/sapfinalESLAB/asdf.v" Line 46: Constant value is truncated to fit in <8> bits.
+WARNING:HDLCompiler:568 - "C:/Users/USMAN/Desktop/sapfinalESLAB/asdf.v" Line 48: Constant value is truncated to fit in <8> bits.
+Analyzing Verilog file "C:/Users/USMAN/Desktop/sapfinalESLAB/asd.v" into library work
+Analyzing Verilog file "C:/Users/USMAN/Desktop/sapfinalESLAB/as.v" into library work
+Analyzing Verilog file "C:/Users/USMAN/Desktop/sapfinalESLAB/ALU.v" into library work
+Analyzing Verilog file "C:/Users/USMAN/Desktop/sapfinalESLAB/accumulator.v" into library work
+Analyzing Verilog file "C:/Users/USMAN/Desktop/sapfinalESLAB/finalsap.v" into library work
+Analyzing Verilog file "C:/Users/USMAN/Desktop/sapfinalESLAB/test.v" into library work
+Analyzing Verilog file "G:/xilinix/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:189 - "C:/Users/USMAN/Desktop/sapfinalESLAB/finalsap.v" Line 37: Size mismatch in connection of port <data_bus>. Formal port size is 4-bit while actual signal size is 8-bit.
+WARNING:HDLCompiler:189 - "C:/Users/USMAN/Desktop/sapfinalESLAB/finalsap.v" Line 38: Size mismatch in connection of port <data_in>. Formal port size is 4-bit while actual signal size is 8-bit.
+WARNING:HDLCompiler:189 - "C:/Users/USMAN/Desktop/sapfinalESLAB/finalsap.v" Line 40: Size mismatch in connection of port <data_out>. Formal port size is 4-bit while actual signal size is 8-bit.
+Completed static elaboration
+Compiling module ALU
+Compiling module accumulator
+Compiling module PC
+Compiling module MAR
+Compiling module RAM
+Compiling module instructionregister
+Compiling module register_b
+Compiling module register_out
+Compiling module controlword
+Compiling module finalsap
+Compiling module test
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 5 sub-compilation(s) to finish...
+Compiled 12 Verilog Units
+Built simulation executable C:/Users/USMAN/Desktop/sapfinalESLAB/test_isim_beh.exe
+Fuse Memory Usage: 27732 KB
+Fuse CPU Usage: 1434 ms

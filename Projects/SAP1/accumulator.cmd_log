@@ -1,0 +1,2 @@
+vhdtdtfi -lib work {E:/GIK Institute '21/4th Semester/CS222 - Organization & Assembly/SAP 1/accumulator.v} -lang verilog -prj sapfinalESLAB -o accumulator.spl -module accumulator -template C:/Xilinx/14.5/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 accumulator.spl {E:/GIK Institute '21/4th Semester/CS222 - Organization & Assembly/SAP 1/accumulator.sym} 

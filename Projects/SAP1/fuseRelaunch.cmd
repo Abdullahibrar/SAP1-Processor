@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/GIK Institute '21/4th Semester/CS222 - Organization & Assembly/SAP 1/accumulator_isim_beh.exe" -prj "E:/GIK Institute '21/4th Semester/CS222 - Organization & Assembly/SAP 1/accumulator_beh.prj" "work.accumulator" "work.glbl" 

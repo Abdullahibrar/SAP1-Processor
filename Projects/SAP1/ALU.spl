@@ -1,0 +1,11 @@
+[Inputs]
+Su
+Eu
+=ina[7:0]=
+=inb[7:0]=
+[Outputs]
+=result[7:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel ALU
+

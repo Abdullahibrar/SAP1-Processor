@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="sapfinalESLAB.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ALU.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ALU.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ALU.xst"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="MAR.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="MAR.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="MAR.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="MAR.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="MAR.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="MAR.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MAR.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="MAR.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="MAR.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="MAR.xst"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="MAR_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="MAR_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="MAR_ngdbuild.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="MAR_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="MAR_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="RAM.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="RAM.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="RAM.xst"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="accumulator.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="accumulator.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="accumulator.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="as.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="as.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="as.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="asd.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="asd.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="asd.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="asdf.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="asdf.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="asdf.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="controlword.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="controlword.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="controlword.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="finalsap.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="finalsap.spl"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="finalsap.stx"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="finalsap.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="finalsap.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="finalsap_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="register_b.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="register_b.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="register_b.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="register_out.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="register_out.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="register_out.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="test_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="test_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="test_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1554373517" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1554373516">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1557296976" xil_pn:in_ck="-3442455562689352404" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1557296976">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ALU.v"/>
+      <outfile xil_pn:name="accumulator.v"/>
+      <outfile xil_pn:name="as.v"/>
+      <outfile xil_pn:name="asd.v"/>
+      <outfile xil_pn:name="asdf.v"/>
+      <outfile xil_pn:name="controlword.v"/>
+      <outfile xil_pn:name="finalsap.v"/>
+      <outfile xil_pn:name="instructionregister.v"/>
+      <outfile xil_pn:name="register_b.v"/>
+      <outfile xil_pn:name="register_out.v"/>
+      <outfile xil_pn:name="test.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1557296173" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-4846834790194202313" xil_pn:start_ts="1557296173">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1557296173" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-1119169853662409259" xil_pn:start_ts="1557296173">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1557296173" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-2181826307498637461" xil_pn:start_ts="1557296173">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1557296976" xil_pn:in_ck="-3442455562689352404" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1557296976">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ALU.v"/>
+      <outfile xil_pn:name="accumulator.v"/>
+      <outfile xil_pn:name="as.v"/>
+      <outfile xil_pn:name="asd.v"/>
+      <outfile xil_pn:name="asdf.v"/>
+      <outfile xil_pn:name="controlword.v"/>
+      <outfile xil_pn:name="finalsap.v"/>
+      <outfile xil_pn:name="instructionregister.v"/>
+      <outfile xil_pn:name="register_b.v"/>
+      <outfile xil_pn:name="register_out.v"/>
+      <outfile xil_pn:name="test.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1557296984" xil_pn:in_ck="-3442455562689352404" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-3886462792435381443" xil_pn:start_ts="1557296976">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="test_beh.prj"/>
+      <outfile xil_pn:name="test_isim_beh.exe"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1557296985" xil_pn:in_ck="870027749588632396" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-3146704178770760256" xil_pn:start_ts="1557296984">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="test_isim_beh.wdb"/>
+    </transform>
+    <transform xil_pn:end_ts="1555349797" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1555349797">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1555349848" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="3734212952567938" xil_pn:start_ts="1555349848">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+    </transform>
+  </transforms>
+
+</generated_project>

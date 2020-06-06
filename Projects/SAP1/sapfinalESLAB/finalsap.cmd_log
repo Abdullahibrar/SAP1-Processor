@@ -1,0 +1,2 @@
+vhdtdtfi -lib work C:/Users/USMAN/Desktop/eslab/sapfinalESLAB/finalsap.v -lang verilog -prj sapfinalESLAB -o finalsap.spl -module finalsap -template G:/xilinix/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 finalsap.spl C:/Users/USMAN/Desktop/eslab/sapfinalESLAB/finalsap.sym 

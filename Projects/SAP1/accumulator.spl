@@ -1,0 +1,12 @@
+[Inputs]
+la
+clk
+ea
+=data_in[7:0]=
+[Outputs]
+=toadder[7:0]=
+=todataout[7:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel accumulator
+

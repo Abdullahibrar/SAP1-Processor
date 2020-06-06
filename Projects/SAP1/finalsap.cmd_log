@@ -1,0 +1,9 @@
+vhdtdtfi -lib work C:/Users/USMAN/Desktop/eslab/sapfinalESLAB/finalsap.v -lang verilog -prj sapfinalESLAB -o finalsap.spl -module finalsap -template G:/xilinix/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 finalsap.spl C:/Users/USMAN/Desktop/eslab/sapfinalESLAB/finalsap.sym 
+xst -intstyle ise -ifn "C:/Users/ADMIN/Desktop/SAP 1/finalsap.xst" -ofn "C:/Users/ADMIN/Desktop/SAP 1/finalsap.syr" 
+vhdtdtfi -lib work {E:/GIK Institute '21/4th Semester/CS222 - Organization & Assembly/SAP 1/finalsap.v} -lang verilog -prj sapfinalESLAB -o finalsap.spl -module finalsap -template C:/Xilinx/14.5/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 finalsap.spl {E:/GIK Institute '21/4th Semester/CS222 - Organization & Assembly/SAP 1/finalsap.sym} 
+xst -intstyle ise -ifn "E:/GIK Institute '21/4th Semester/CS222 - Organization & Assembly/SAP 1/finalsap.xst" -ofn "E:/GIK Institute '21/4th Semester/CS222 - Organization & Assembly/SAP 1/finalsap.syr" 
+xst -intstyle ise -ifn "E:/GIK Institute '21/4th Semester/CS222 - Organization & Assembly/SAP 1/finalsap.xst" -ofn "E:/GIK Institute '21/4th Semester/CS222 - Organization & Assembly/SAP 1/finalsap.syr" 
+xst -intstyle ise -ifn "E:/GIK Institute '21/4th Semester/CS222 - Organization & Assembly/SAP 1/finalsap.xst" -ofn "E:/GIK Institute '21/4th Semester/CS222 - Organization & Assembly/SAP 1/finalsap.syr" 
+xst -intstyle ise -ifn "E:/GIK Institute '21/4th Semester/CS222 - Organization & Assembly/SAP 1/finalsap.xst" -ofn "E:/GIK Institute '21/4th Semester/CS222 - Organization & Assembly/SAP 1/finalsap.syr" 

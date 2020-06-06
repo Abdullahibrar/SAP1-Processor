@@ -1,0 +1,29 @@
+Command line:
+   finalsap_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49186
+
+Tue May 07 16:29:21 2019
+
+
+ Elaboration Time: 0.093601 sec
+
+ Current Memory Usage: 666.878 Meg
+
+ Total Signals          : 79
+ Total Nets             : 101
+ Total Signal Drivers   : 21
+ Total Blocks           : 11
+ Total Primitive Blocks : 10
+ Total Processes        : 31
+ Total Traceable Variables  : 42
+ Total Scalar Nets and Variables : 571
+Total Line Count : 100
+
+ Total Simulation Time: 58.8592 sec
+
+ Current Memory Usage: 666.878 Meg
+
+Tue May 07 16:36:09 2019
+
